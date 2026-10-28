@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深色模式下的窗口底色，与设计规范的深色背景一致 -->
+    <color name="window_background">#101116</color>
+</resources>
